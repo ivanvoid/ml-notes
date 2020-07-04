@@ -5,7 +5,8 @@ Tutorials for different architectures for Neural networks, for PyTorch 1.5.0
 * [Recurrent neural network (LSTM)][3]
 * [Generative adversarial network][4]
 * [Variational autoencoder][5]
-* [Style transfer VGG19][6] ([Tutorial][7])
+* [Style transfer VGG19][6] ([Tutorial][7])  
+  
 ====
 Insparation
 * [PyTorch 0.5.0 tutorials](https://github.com/yunjey/pytorch-tutorial)
